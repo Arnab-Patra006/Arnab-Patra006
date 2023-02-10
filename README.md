@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Patra</h1>
 <h3 align="center">A passionate DSA Problem Solver</h3>
-<p style="text-align:center;"><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500px" alt="coding" ></p>
+<img align="" alt="coding" width="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-patra006&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-patra006" /> </p>
 
@@ -14,12 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnab-patra-16a99a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab-patra-16a99a212/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arnab.patra.3998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arnab.patra.3998" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/7he_ghost_of_uchiha/reels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/7he_ghost_of_uchiha/reels/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/the_ghost_of_uchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/the_ghost_of_uchiha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ace_pie06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ace_pie06/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arnabpatra1111/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arnabpatra1111/practice" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnab-patra-16a99a212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab-patra-16a99a212/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arnab.patra.3998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arnab.patra.3998" height="30" width="40" /></a>
+<a href="https://www.instagram.com/7he_ghost_of_uchiha/reels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/7he_ghost_of_uchiha/reels/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/the_ghost_of_uchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/the_ghost_of_uchiha" height="30" width="40" /></a>
+<a href="https://leetcode.com/ace_pie06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ace_pie06/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arnabpatra1111/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arnabpatra1111/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
