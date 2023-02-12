@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Patra</h1>
 <h3 align="center">A passionate DSA Problem Solver</h3>
-<img align="" alt="coding" width="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="center" alt="coding" width="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-patra006&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-patra006" /> </p>
 
